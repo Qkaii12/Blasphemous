@@ -1,0 +1,2345 @@
+fileFormatVersion: 2
+guid: d7a856e7f88fc4f4ca4206f3c227122d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: viciousdasher_execution_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 147
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3b221719000224ba0e97ea2bae3b43
+      internalID: -1305614836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 452
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefd51209ac96074bb960f1bbf5caa98
+      internalID: -1553696871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 369
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450a1f69dbd736646a01b53141d29c93
+      internalID: -1783832269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 421
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77abf74eb7898444b6771ee21fb2f51
+      internalID: 1134822571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 420
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee50c357d77afc745ae857c8156ec050
+      internalID: 763341971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 440
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e048063fdc75df41b963abe8a2e616a
+      internalID: 369617215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 368
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60bf0a5ea751a648a4c1c394770e1b6
+      internalID: 1418736144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 368
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba94816e2f92c3499b54b10d94bc9e6
+      internalID: -870538840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 437
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2af23ada6c5bf94abcdc94cc7ce464d
+      internalID: 1590366211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81214ea250fcc5d4c9cd3701f5eadf14
+      internalID: 872435614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 335
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492837eed0af9034ca50065ad41f8b54
+      internalID: 2036191688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 377
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4bcd721e4368448a6dbdc45fdc1575
+      internalID: 773344048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_12
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 361
+        width: 89
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cae7e7ce59aeeb489f0562781e6bee2
+      internalID: -104220997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_13
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 318
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d80ce7d41ed23c45ac6db2a547ed0c9
+      internalID: -1672326307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 321
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b945369ad951c04da110b00e25fb5d8
+      internalID: -2063102552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 339
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50d3231ca755c74992b7a9c1db42fda
+      internalID: 358686446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 306
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50c9e7960b010e499d98f4fe040da53
+      internalID: -1743750133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 298
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf06ee1b42fd86459e26a298c521d9c
+      internalID: 1187466274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 283
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac1ca20e66205f41857150e479d5cab
+      internalID: -1679308559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 298
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34140a8114fa7084d88239898b00de43
+      internalID: 1665403071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b933dd41b998144b8d42a88a1817ea4
+      internalID: 388449429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 317
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34d020c7293bdf4fb26c91e8dab05f0
+      internalID: -1519588856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 225
+        width: 121
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d557a06f36295469b508b7a6e054d5
+      internalID: 1451615304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 295
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d38a05f7ae34a41817a84e967f0576
+      internalID: -1450024270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 305
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0bc3ed24afde4b8681582e61e4a56
+      internalID: -957140609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 303
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170863a5b91d3e148b29ded06e829561
+      internalID: -1176595400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 281
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b318cae3f0a21bc458a6abbb60950c84
+      internalID: -844955081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_27
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 255
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40984f81531c4b4ea0bf159481a5e72
+      internalID: -1916583595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 229
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de8e97128b9b6841aa95cce11f77ca2
+      internalID: -924067098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 298
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7033a25091103cc4e984b8546833f75a
+      internalID: 988229362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 279
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75864f13518687f4eb4763a9c9ec0f05
+      internalID: -878419484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 226
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f803c3bffa0bd104181ef89b722f6b8d
+      internalID: 786728830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_32
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 213
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3563eb61a99e9c5478f898d9109a1363
+      internalID: -1713732873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 227
+        width: 101
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a353101fbd18fb443902a82bb00571a7
+      internalID: 1501482821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a85b82df959c240a750cecde6749f7
+      internalID: 424781359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 234
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0b188fecef1304aae72fbdeb72525a
+      internalID: -367483182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_36
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 210
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa87fc9b805820408bfa9d7bff802df
+      internalID: -1017280324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_37
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 207
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575bce83fd5d05142b607777d1f6f454
+      internalID: 999602697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_38
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 239
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1701c735fe86c62489308d5fb82d98fd
+      internalID: -1320159743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_39
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 232
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e428d6698e59834eb8d54dfcc390482
+      internalID: 2058932078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 213
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ac8c68f6edf2345a0367b089bc75dd
+      internalID: 706727556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 166
+        width: 108
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92ae15aa370e9848942a3266436b894
+      internalID: 1812418760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b2a08f577b8734186630af8156c80f
+      internalID: 847916241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdb211362199df4585767871f33a7d7
+      internalID: -1920370398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_44
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 151
+        width: 137
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa37cda917f2145bcc7b6fe1222e46
+      internalID: 1015231737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 140
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427de91abcfdb8e458ecec35a7f9547a
+      internalID: -480502556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 154
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cafc28435a09ab4197da63bbb27dfe6
+      internalID: 1605744324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_47
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 160
+        width: 113
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3916eeee0df2cd449f61c5f96bd043c
+      internalID: 1124653329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_48
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 159
+        width: 126
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba864829916c1964b968cda19c1164bc
+      internalID: 415482024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_49
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 159
+        width: 99
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e0c27b10a42c6448f646966aa730b3
+      internalID: 189628781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0509257177e49ec4c8e5bc2a8a2d2a2f
+      internalID: -63978781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_51
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 187
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781afaf753605a045bcf8effb49d4717
+      internalID: 983991564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_52
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 191
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f8515d2e5276459f60ad1aac84288
+      internalID: 119992785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_53
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 179
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c7fac0ace54174f8c747788204068a
+      internalID: 1541032112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_54
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 177
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1eb253a74b6c3479039c645427a69d
+      internalID: 912363425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_55
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 173
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c53532a7f1d95845ae550d39c2d7fca
+      internalID: -1684547882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf672a559fb02e459deb9e5e0e64e6d
+      internalID: -1367165132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 155
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3564c8ce8686fa9408831f753a1b9306
+      internalID: 290259476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 155
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b853d87dbc17bc45bb0c788e8e2e615
+      internalID: 1031777186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_59
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 156
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89bd920cf58c134486a188f7546e9d1
+      internalID: 1899701849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_60
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 137
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc984ce710b054439b4fc0d05b064cc
+      internalID: -2136240372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_61
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 82
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fa15c7abaec0b4081902f9726f6109
+      internalID: -1517985469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 141
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca3c41e41ef75940bb894c90874e344
+      internalID: 1073412309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 77
+        width: 122
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af93288c533aecc45bca3532e39b99cc
+      internalID: 2089432104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 82
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31041f37b7097646be229bb6294ba32
+      internalID: 1637634285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_65
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 82
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9281047b0999d3d40b52f974b0f84cc7
+      internalID: -560920522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_66
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 132
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910cb3e99be2e6a43addebc4da76b5fe
+      internalID: -614546418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_67
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 71
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be01f3c459bfc774fa089d85bb3d6a2e
+      internalID: 2096226626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 132
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae03f92f9521f0438c23e110e77dcd6
+      internalID: -1091148563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_69
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 85
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6fb3ab2d4f5544e96d157bc1c6cd4a
+      internalID: 694651303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_70
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 83
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f39beaaede560c44b03364d12aa5926
+      internalID: 1125166501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_71
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 82
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6ba66571d230342bac42ff8d6e34dc
+      internalID: -2115937455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_72
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 82
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dc108c3d3f15442a96a587138f0cbe
+      internalID: -380621542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_73
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 69
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fcc814edc000b469008ffe531a7d8d
+      internalID: -659409980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_74
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 82
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400cc15bc57e3ec449aca3d2d448d060
+      internalID: -266662559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_75
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 82
+        width: 141
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b13b02fb0079404b99bebe3648deeff
+      internalID: -80350236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_76
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e53d3a5d7d582429c91f158439f118
+      internalID: -2089872662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_77
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 69
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e410228f84f994199c8ecd35a72045
+      internalID: -1301430676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_78
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 64
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657ebfb1555fd194c9ae8b449c20bde9
+      internalID: -1959499458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_79
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42c5d1c71408754488f1b9a048840a6
+      internalID: 1817658385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd3b10a352e6374aa170018db2243e8
+      internalID: 1827521976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_81
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef8d3f7ca2587743947d799e6e9199b
+      internalID: -1053759320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_82
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56873187c3366b24dbb76d30e34da6ad
+      internalID: -1404615478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_83
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135b9683ce3462447815f1d4aa26a08b
+      internalID: -1761682248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_84
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8c02ec8a83d54cacadab9b501bc48
+      internalID: 1573731695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_85
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 55
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67180a7f5e68aa649a6774aad53e2050
+      internalID: -1238662749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 38
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c94b457151168468fb6306fb3089a2
+      internalID: 643971284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_87
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 136
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b772d13967df504091498c5a8055003
+      internalID: -1176083749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_88
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 54
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb81b54e5752a34899e3ffca9ae7dad
+      internalID: 868063189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_89
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 59
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6159e5ef089ba8a41b00d5ff979899b9
+      internalID: 2005249970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_90
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5308903d5dba29747a3b17b5d4b707e4
+      internalID: -1978631334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_91
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 0
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac547c4aa6f654448953797adbea7de
+      internalID: 2072919828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_92
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b096b44cd8c3ccb4292938ecb5fa06ab
+      internalID: 1406791219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_93
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3481d6b9905f8b442b689d356fc1caf9
+      internalID: 318428066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_94
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 6
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bf373818f8908438b180f9a22757d7
+      internalID: 238897965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_95
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 8
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca070cedbceb94e8b9e02bf05a23ec
+      internalID: 397694979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab252e78d07b12245873e7c54e077e7c
+      internalID: 1786292250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_97
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 32
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1562099b6c547ae40bbc9c6073d0ddb9
+      internalID: 685513300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_98
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a9a7933fe5deb4e86f787f529a58c6
+      internalID: -23125787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_99
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacbb8b6ef9010b42a8b50348218e872
+      internalID: -1928933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viciousdasher_execution_100
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5ff2a7f4a578442a5a2c11eaeecba8
+      internalID: -1701402315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      viciousdasher_execution_0: -1305614836
+      viciousdasher_execution_1: -1553696871
+      viciousdasher_execution_10: 2036191688
+      viciousdasher_execution_100: -1701402315
+      viciousdasher_execution_11: 773344048
+      viciousdasher_execution_12: -104220997
+      viciousdasher_execution_13: -1672326307
+      viciousdasher_execution_14: -2063102552
+      viciousdasher_execution_15: 358686446
+      viciousdasher_execution_16: -1743750133
+      viciousdasher_execution_17: 1187466274
+      viciousdasher_execution_18: -1679308559
+      viciousdasher_execution_19: 1665403071
+      viciousdasher_execution_2: -1783832269
+      viciousdasher_execution_20: 388449429
+      viciousdasher_execution_21: -1519588856
+      viciousdasher_execution_22: 1451615304
+      viciousdasher_execution_23: -1450024270
+      viciousdasher_execution_24: -957140609
+      viciousdasher_execution_25: -1176595400
+      viciousdasher_execution_26: -844955081
+      viciousdasher_execution_27: -1916583595
+      viciousdasher_execution_28: -924067098
+      viciousdasher_execution_29: 988229362
+      viciousdasher_execution_3: 1134822571
+      viciousdasher_execution_30: -878419484
+      viciousdasher_execution_31: 786728830
+      viciousdasher_execution_32: -1713732873
+      viciousdasher_execution_33: 1501482821
+      viciousdasher_execution_34: 424781359
+      viciousdasher_execution_35: -367483182
+      viciousdasher_execution_36: -1017280324
+      viciousdasher_execution_37: 999602697
+      viciousdasher_execution_38: -1320159743
+      viciousdasher_execution_39: 2058932078
+      viciousdasher_execution_4: 763341971
+      viciousdasher_execution_40: 706727556
+      viciousdasher_execution_41: 1812418760
+      viciousdasher_execution_42: 847916241
+      viciousdasher_execution_43: -1920370398
+      viciousdasher_execution_44: 1015231737
+      viciousdasher_execution_45: -480502556
+      viciousdasher_execution_46: 1605744324
+      viciousdasher_execution_47: 1124653329
+      viciousdasher_execution_48: 415482024
+      viciousdasher_execution_49: 189628781
+      viciousdasher_execution_5: 369617215
+      viciousdasher_execution_50: -63978781
+      viciousdasher_execution_51: 983991564
+      viciousdasher_execution_52: 119992785
+      viciousdasher_execution_53: 1541032112
+      viciousdasher_execution_54: 912363425
+      viciousdasher_execution_55: -1684547882
+      viciousdasher_execution_56: -1367165132
+      viciousdasher_execution_57: 290259476
+      viciousdasher_execution_58: 1031777186
+      viciousdasher_execution_59: 1899701849
+      viciousdasher_execution_6: 1418736144
+      viciousdasher_execution_60: -2136240372
+      viciousdasher_execution_61: -1517985469
+      viciousdasher_execution_62: 1073412309
+      viciousdasher_execution_63: 2089432104
+      viciousdasher_execution_64: 1637634285
+      viciousdasher_execution_65: -560920522
+      viciousdasher_execution_66: -614546418
+      viciousdasher_execution_67: 2096226626
+      viciousdasher_execution_68: -1091148563
+      viciousdasher_execution_69: 694651303
+      viciousdasher_execution_7: -870538840
+      viciousdasher_execution_70: 1125166501
+      viciousdasher_execution_71: -2115937455
+      viciousdasher_execution_72: -380621542
+      viciousdasher_execution_73: -659409980
+      viciousdasher_execution_74: -266662559
+      viciousdasher_execution_75: -80350236
+      viciousdasher_execution_76: -2089872662
+      viciousdasher_execution_77: -1301430676
+      viciousdasher_execution_78: -1959499458
+      viciousdasher_execution_79: 1817658385
+      viciousdasher_execution_8: 1590366211
+      viciousdasher_execution_80: 1827521976
+      viciousdasher_execution_81: -1053759320
+      viciousdasher_execution_82: -1404615478
+      viciousdasher_execution_83: -1761682248
+      viciousdasher_execution_84: 1573731695
+      viciousdasher_execution_85: -1238662749
+      viciousdasher_execution_86: 643971284
+      viciousdasher_execution_87: -1176083749
+      viciousdasher_execution_88: 868063189
+      viciousdasher_execution_89: 2005249970
+      viciousdasher_execution_9: 872435614
+      viciousdasher_execution_90: -1978631334
+      viciousdasher_execution_91: 2072919828
+      viciousdasher_execution_92: 1406791219
+      viciousdasher_execution_93: 318428066
+      viciousdasher_execution_94: 238897965
+      viciousdasher_execution_95: 397694979
+      viciousdasher_execution_96: 1786292250
+      viciousdasher_execution_97: 685513300
+      viciousdasher_execution_98: -23125787
+      viciousdasher_execution_99: -1928933
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

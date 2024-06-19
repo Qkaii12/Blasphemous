@@ -1,0 +1,1597 @@
+fileFormatVersion: 2
+guid: ba9b8ef8703f3324886fc82f75e35ba6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d2825976c2b15428a7ac661ab24069
+      internalID: 1961185452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 432
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eead06e74f9b24da703096e23b4c79
+      internalID: 319615209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 406
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbadb2351fa6b24a9d571f5dfffa537
+      internalID: -1513227376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 419
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384e98a3c4fbbd847aec792cfd436e8d
+      internalID: 1773668983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 434
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c1a8ff0c995dc4fa8f3a4075db6e8a
+      internalID: 125260277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 431
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967bb24079111fb478e38f540fbd1a27
+      internalID: -935483063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 432
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6dca1025164d4b88744267c55e25c
+      internalID: 1415154729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 367
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b70075bc8a5014ca3424e4840603ab
+      internalID: 1007047022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ac7228fb1a6244894fde3323e09ab
+      internalID: -1069476188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 335
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7665eccd1f6dc47bb23c43f5db7625
+      internalID: -1170920784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 334
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be223b0beffe2e4ca7a28d744df60e5
+      internalID: -1498310125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 343
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f679441ad1491c7449c4998d31c04958
+      internalID: 1536700185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 361
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a119fd2f8407d40870b3ccfcc2f4d9
+      internalID: -759297760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 355
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002a81557718e0e46ad5601d04c751ee
+      internalID: -644785271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 360
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cbcad25fd51d94eb9477825cbff95b
+      internalID: -324471404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_15
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 295
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46339c6b836ace24397ec8500f737a23
+      internalID: 1851278739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7614f1ee1d6b0754d96bc018ee1901b8
+      internalID: -1070654819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 287
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c390d4ca1ce434aad787c8dcf4b3a3
+      internalID: 1343358515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 82
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c791bc32376ed41b6f777e05165055
+      internalID: 1797211170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 267
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a6e75305446dc4e910bf45f138fe52
+      internalID: -1433736702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 286
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e33b7cdac929114eb256240b80c2788
+      internalID: 292703869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_21
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 294
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858306bbc49e264ebe91b714fe094ed
+      internalID: 506454991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 295
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a71fb2e25b7684bb59ec7804b6ed97
+      internalID: 438856555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 288
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a48e5645c94e8d4881c6690fb0b88b8
+      internalID: 174307242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_24
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 219
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8df726840797469675aad2422451b
+      internalID: -1769870225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6ec7e4c16aa1e4590f45a950e2bb71
+      internalID: -1957842671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 214
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae29cdc6ff924ab42a1581b9d9c0578f
+      internalID: 752442754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 201
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f766bd3c3f2633468da8b681d3861a8
+      internalID: -435332732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 211
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095ca06fdad71f044807caec1833867e
+      internalID: 1224089656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_29
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 220
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aa9df2dac602a46ac42ea118428cf8
+      internalID: 160704146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 216
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b503cadc3fe37478f56f539bdfcf25
+      internalID: -384135131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_31
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 216
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1e0ae950c911438a8d5e45a6abeaa
+      internalID: -90658391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f93b8fd16cea34a928830986611869
+      internalID: -805173938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 140
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efff5c685fa0eb4448e77ff593e133d7
+      internalID: 22579182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7559f2950b0e340429d8ab91067015a4
+      internalID: 440069321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 134
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2486ce06e1b7d544cbcfc9398ed56036
+      internalID: 1812830656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 136
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a993731779dbea42bb2b5af762ec8e1
+      internalID: -69409701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_37
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 148
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5218cb1eaf7d56419436191f456e6c5
+      internalID: 276388042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_38
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 144
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85420f1b0dfd4f54a8e59586a09ec5b4
+      internalID: -1996579568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_39
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 138
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ebe75244bb0eb4ead3fc2a881bc2e6
+      internalID: 1252920744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_40
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 143
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055215f4fdecedd429964171ced58be8
+      internalID: 1393991729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29edddf40a74551449355d685004ad86
+      internalID: 1405865691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 70
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be6cc5f206cc334b9c225effe996f0b
+      internalID: -1558883016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 62
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f528b00172b9934fb5d545a91343297
+      internalID: 2084448176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_44
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 81
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35272abc36c3fad4ba958608cd4b0a68
+      internalID: -335279105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 67
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b67aa225faf747a5d56288ca7c557
+      internalID: 2137498055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64cd3068a6ecef4e817ea6634939640
+      internalID: -345469358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 74
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5542c47868b3e084a9f3859f5f6b162a
+      internalID: -570884408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_48
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 72
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb2173dc1a4f446b9347c22d051417
+      internalID: -1489057428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_49
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 68
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963e491c9b868ee41ad3dc2c5dfb2cbe
+      internalID: -1921403796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_50
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 68
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b8383c9724db40bcac945018de14a
+      internalID: -1607273711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e61f4f8279092048a127bf698194e60
+      internalID: 897723404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591d7cc8fa104b4458f1ebd199315890
+      internalID: 659545566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a4e30a96e8ee1498a709442cdd3ffe
+      internalID: 1962858818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_54
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedb03509bec84a44811381362af9891
+      internalID: -1552733667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77f46344144c4f4b85236ed9603ecb1
+      internalID: -1785184578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd04f44c17e857a409fb941540da4e8c
+      internalID: 1143904092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_57
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d6883635d033b45a8445c36a9277a5
+      internalID: 1084832071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_58
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb45e5bedb1a85643868c151586359f7
+      internalID: 1453738496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_59
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f286a82b0614fd41a1426fd89d5f9ee
+      internalID: -1956557259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_60
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 47
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b2258968a64f94d8a9ca4bfaa62c2e
+      internalID: -1195770883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_61
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 8
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d374eef308d70984d9dd4a6566d99a48
+      internalID: 1930329630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_62
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bdf69c02d53ba42858ec2d03cab752
+      internalID: -1305983357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_63
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989814bdcf7be2644af1f696c1862c9d
+      internalID: -1468773119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_64
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccdcd67b6f79d04fb9dd83604519732
+      internalID: -2110605693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_65
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 0
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e061693e90f464e8b4b86015b71ec2
+      internalID: -1578440162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acolit_execution_tpoRecolor_66
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a948f20d847f20d4e9f5abb13920c42c
+      internalID: -1162619057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      acolit_execution_tpoRecolor_0: 1961185452
+      acolit_execution_tpoRecolor_1: 319615209
+      acolit_execution_tpoRecolor_10: -1498310125
+      acolit_execution_tpoRecolor_11: 1536700185
+      acolit_execution_tpoRecolor_12: -759297760
+      acolit_execution_tpoRecolor_13: -644785271
+      acolit_execution_tpoRecolor_14: -324471404
+      acolit_execution_tpoRecolor_15: 1851278739
+      acolit_execution_tpoRecolor_16: -1070654819
+      acolit_execution_tpoRecolor_17: 1343358515
+      acolit_execution_tpoRecolor_18: 1797211170
+      acolit_execution_tpoRecolor_19: -1433736702
+      acolit_execution_tpoRecolor_2: -1513227376
+      acolit_execution_tpoRecolor_20: 292703869
+      acolit_execution_tpoRecolor_21: 506454991
+      acolit_execution_tpoRecolor_22: 438856555
+      acolit_execution_tpoRecolor_23: 174307242
+      acolit_execution_tpoRecolor_24: -1769870225
+      acolit_execution_tpoRecolor_25: -1957842671
+      acolit_execution_tpoRecolor_26: 752442754
+      acolit_execution_tpoRecolor_27: -435332732
+      acolit_execution_tpoRecolor_28: 1224089656
+      acolit_execution_tpoRecolor_29: 160704146
+      acolit_execution_tpoRecolor_3: 1773668983
+      acolit_execution_tpoRecolor_30: -384135131
+      acolit_execution_tpoRecolor_31: -90658391
+      acolit_execution_tpoRecolor_32: -805173938
+      acolit_execution_tpoRecolor_33: 22579182
+      acolit_execution_tpoRecolor_34: 440069321
+      acolit_execution_tpoRecolor_35: 1812830656
+      acolit_execution_tpoRecolor_36: -69409701
+      acolit_execution_tpoRecolor_37: 276388042
+      acolit_execution_tpoRecolor_38: -1996579568
+      acolit_execution_tpoRecolor_39: 1252920744
+      acolit_execution_tpoRecolor_4: 125260277
+      acolit_execution_tpoRecolor_40: 1393991729
+      acolit_execution_tpoRecolor_41: 1405865691
+      acolit_execution_tpoRecolor_42: -1558883016
+      acolit_execution_tpoRecolor_43: 2084448176
+      acolit_execution_tpoRecolor_44: -335279105
+      acolit_execution_tpoRecolor_45: 2137498055
+      acolit_execution_tpoRecolor_46: -345469358
+      acolit_execution_tpoRecolor_47: -570884408
+      acolit_execution_tpoRecolor_48: -1489057428
+      acolit_execution_tpoRecolor_49: -1921403796
+      acolit_execution_tpoRecolor_5: -935483063
+      acolit_execution_tpoRecolor_50: -1607273711
+      acolit_execution_tpoRecolor_51: 897723404
+      acolit_execution_tpoRecolor_52: 659545566
+      acolit_execution_tpoRecolor_53: 1962858818
+      acolit_execution_tpoRecolor_54: -1552733667
+      acolit_execution_tpoRecolor_55: -1785184578
+      acolit_execution_tpoRecolor_56: 1143904092
+      acolit_execution_tpoRecolor_57: 1084832071
+      acolit_execution_tpoRecolor_58: 1453738496
+      acolit_execution_tpoRecolor_59: -1956557259
+      acolit_execution_tpoRecolor_6: 1415154729
+      acolit_execution_tpoRecolor_60: -1195770883
+      acolit_execution_tpoRecolor_61: 1930329630
+      acolit_execution_tpoRecolor_62: -1305983357
+      acolit_execution_tpoRecolor_63: -1468773119
+      acolit_execution_tpoRecolor_64: -2110605693
+      acolit_execution_tpoRecolor_65: -1578440162
+      acolit_execution_tpoRecolor_66: -1162619057
+      acolit_execution_tpoRecolor_7: 1007047022
+      acolit_execution_tpoRecolor_8: -1069476188
+      acolit_execution_tpoRecolor_9: -1170920784
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
